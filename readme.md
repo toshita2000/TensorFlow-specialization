@@ -39,9 +39,9 @@ b. In case of prediction if it finds a word which is not there in the training s
 c. Corpus is a large collection of texts. Every text in the csv file is appended to the corpus. LSTM is long short term memory which is a recurrent neural network and carries the cell state from the previous to the next cell state which is used for predicting the words ahead based on training data.<br>
 
 <h3> So overall main concepts here : -</h3><br>
-1. Tokenisation
-2. Corpus
-3. LSTM / Recurrent Neural Network
+1. Tokenisation<br>
+2. Corpus<br>
+3. LSTM / Recurrent Neural Network<br>
 
 ## Course 4 - Sequence, Time Series and Prediction
 
