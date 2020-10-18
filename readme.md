@@ -45,5 +45,14 @@ c. Corpus is a large collection of texts. Every text in the csv file is appended
 
 ## Course 4 - Sequence, Time Series and Prediction
 
+a. Basic concepts of time series with seasonality which means repeating the same pattern each period. Noise is basically an unpredictable wave into the sequence. Forecasting means predicting the series. With the help of keras.metrics we can calculate mean squared error. The forecasting is done using moving average.<br>
+b. Predicting series using DNN to improve accuracy.<br>
+c. Predicting series with LSTM's and RNN learnt before for improving accuracy and mainly decreasing the mean square error. LSTM has better accuracy than RNN. expand_dims function used to expand the series. Changing the learning rate epoch by epoch which is used to set the optimiser.  This is all done on synthetic data.<br>
+d. Adding a CNN with single layer with bi-directional LSTM. Now experimenting with real data.
 
- 
+
+<h3> So overall main concepts here : -</h3><br>
+1. Seasonality<br>
+2. Mean square error <br>
+3. Use of DNN,CNN,RNN and LSTM to improve accuracy <br>
+4. Synthetic and Real World Data <br>
